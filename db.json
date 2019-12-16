@@ -1,0 +1,26 @@
+
+{
+"products": [
+{"id":1,"name":"Puna ibis","category":"Teal"},
+{"id":2,"name":"Starling, greater blue-eared","category":"Mauv"},
+{"id":3,"name":"Quail, gambel's","category":"Aquamarine"},
+{"id":4,"name":"Common pheasant","category":"Green"},
+{"id":5,"name":"Grouse, greater sage","category":"Green"},
+{"id":6,"name":"Hen, sage","category":"Blue"},
+{"id":7,"name":"Owl, australian masked","category":"Maroon"},
+{"id":8,"name":"Bat, madagascar fruit","category":"Indigo"},
+{"id":9,"name":"Tiger cat","category":"Pink"},
+{"id":10,"name":"Alligator, mississippi","category":"Pink"},
+{"id":11,"name":"Corella, long-billed","category":"Maroon"},
+{"id":12,"name":"Ringtail cat","category":"Mauv"},
+{"id":13,"name":"Brush-tailed phascogale","category":"Mauv"},
+{"id":14,"name":"African snake (unidentified)","category":"Violet"},
+{"id":15,"name":"Civet (unidentified)","category":"Blue"},
+{"id":16,"name":"Duiker, gray","category":"Yellow"},
+{"id":17,"name":"Squirrel, pine","category":"Orange"},
+{"id":18,"name":"Dragonfly, russian","category":"Maroon"},
+{"id":19,"name":"Galapagos penguin","category":"Crimson"},
+{"id":20,"name":"Deer, white-tailed","category":"Yellow"}
+
+]
+ }
